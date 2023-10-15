@@ -1,6 +1,6 @@
 #pragma once
 
-#define STATION_NAME "PollutionHorse Station #1"; // Nama of current device station, used in Email as sender name.
+#define STATION_NAME "PollutionHorse Station #1"; // Name of current device station, used in Email as sender name.
 
 // WiFi
 #define SECRET_WIFI_SSID ""; // SSID must be visible
