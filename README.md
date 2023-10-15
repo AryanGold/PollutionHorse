@@ -13,11 +13,11 @@ Hardware:
 `git clone https://github.com/AryanGold/PollutionHorse.git && cd PollutionHorse`
 
 2
-Set WiFi and Email SMTP options in the file "arduino_secrets.h":
+Set WiFi and Email SMTP options in the file "arduino_secrets.h":<br>
 `cp arduino_secrets_default.h arduino_secrets.h`
 
 3
-Set alarm threshold in CPM (Counts Per Minute) in "PollutionHorse.ino -> alarm_radiation_cpm_threshold" (default 100 CPM = 0.0057 uSv/hr).
+Set alarm threshold in CPM (Counts Per Minute)<br> "PollutionHorse.ino -> alarm_radiation_cpm_threshold" (default 100 CPM = 0.0057 uSv/hr).
 
 
 **Extra**
